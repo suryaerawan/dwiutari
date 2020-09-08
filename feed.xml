@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Dwi Utari</title>
-    <link href="https://suryaerawan.github.io/dwiutari/feed.xml" rel="self" />
-    <link href="https://suryaerawan.github.io/dwiutari" />
+    <link href="http://bubuhbali.tk/feed.xml" rel="self" />
+    <link href="http://bubuhbali.tk" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Dayude</name>
     </author>
-    <id>https://suryaerawan.github.io/dwiutari</id>
+    <id>http://bubuhbali.tk</id>
 
 </feed>
